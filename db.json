@@ -1,0 +1,29 @@
+{
+  "categories": [
+    { "id": 1, "name": "Adventure" },
+    { "id": 2, "name": "Animals" },
+    { "id": 3, "name": "Classic" },
+    { "id": 4, "name": "0-3 years" },
+    { "id": 5, "name": "4-6 years" },
+    { "id": 6, "name": "7-10 years" }
+  ],
+  "users": [],
+  "fairyTales": [
+    {
+      "id": 1,
+      "title": "Cinderella",
+      "description": "A classic tale about a kind girl and her magical transformation.",
+      "thumbnail": "https://example.com/cinderella.jpg",
+      "audioUrl": "https://example.com/cinderella.mp3",
+      "category": "Classic"
+    },
+    {
+      "id": 2,
+      "title": "The Three Little Pigs",
+      "description": "Three pigs build houses to protect themselves from the big bad wolf.",
+      "thumbnail": "https://example.com/threepigs.jpg",
+      "audioUrl": "https://example.com/threepigs.mp3",
+      "category": "Animals"
+    }
+  ]
+}
